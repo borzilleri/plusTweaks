@@ -1,0 +1,11 @@
+{
+	"name": "plusTweaks",
+	"version": "4",
+	"description": "Style tweaks to Google+",
+	"content_scripts": [
+		{
+			"matches": ["*://plus.google.com/*"],
+			"css": ["plusTweaks.css"]
+		}
+	]
+}
