@@ -1,6 +1,6 @@
 {
 	"name": "plusTweaks",
-	"version": "4",
+	"version": "5",
 	"description": "Style tweaks to Google+",
 	"content_scripts": [
 		{
