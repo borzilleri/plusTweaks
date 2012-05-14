@@ -1,50 +1,41 @@
 /* Hide the "trending" column. */
-.gC .L9ru2b {
+.ksa {
 	display:none !important;
 }
 
-/* Misc main content containers */
-.ncGWdc, .HWkrRb {
+/* Main stream divs Search & Home, respectively*/
+.wFb, .OT {
+	width: 100% !important;
+}
+
+/* stream & post containers */
+.h8,
+.h8 .aw {
 	width: 100% !important;
 }
 
 /* The main post divs */
-.gC .ncGWdc .Te,
-.gC .ncGWdc .SG {
+.aw .Gb {
 	width: 94% !important;
 	max-width: 960px !important;
 }
 
 /* The "share/join" toolbar */
-.gC .ncGWdc .iH,
-.gC .ncGWdc .GjzoHe {
+.xj {
 	width: 90% !important;
 	max-width: 860px !important;
 }
 
 /* The text field in the "share/join" toolbar */
-.gC .ncGWdc .e-dd {
+.g-Ac {
 	width: 100% !important;
 }
 
-
-.UBQ2Je {
-	display: none !important;
+/* Center Images */
+.Gm .Ag {
+	margin: auto;
 }
-
-/* Kill the shadowbox on images & videos */
-.VepHtd {
-	background-color: rgba(0,0,0,0) !important;
-}
-.r4gluf {
-	background-color: rgba(0,0,0,0) !important;
-}
-
-/* Center videos & their placeholder images */
-.r4gluf {
-	margin-left: auto !important;
-	margin-right: auto !important;
-}
-.yPrMVe {
+/* Center Videos */
+.Gm .Om {
 	text-align: center;
 }
