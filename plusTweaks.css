@@ -1,41 +1,11 @@
-/* Hide the "trending" column. */
-.ksa {
-	display:none !important;
+.kDq7F {
+	width: 700px !important;
 }
 
-/* Main stream divs Search & Home, respectively*/
-.wFb, .OT {
-	width: 100% !important;
+.Fq {
+	margin-left: 100px !important;
 }
 
-/* stream & post containers */
-.h8,
-.h8 .aw {
-	width: 100% !important;
-}
-
-/* The main post divs */
-.aw .Gb {
-	width: 94% !important;
-	max-width: 960px !important;
-}
-
-/* The "share/join" toolbar */
-.xj {
-	width: 90% !important;
-	max-width: 860px !important;
-}
-
-/* The text field in the "share/join" toolbar */
-.g-Ac {
-	width: 100% !important;
-}
-
-/* Center Images */
-.Gm .Ag {
-	margin: auto;
-}
-/* Center Videos */
-.Gm .Om {
-	text-align: center;
+.EyKftc {
+	max-width: 700px !important;
 }

@@ -1,11 +1,13 @@
 {
+	"manifest_version": 2,
 	"name": "plusTweaks",
-	"version": "6",
-	"description": "Style tweaks to Google+",
+	"version": "7",
+	"description": "Style tweaks to Google +",
 	"content_scripts": [
 		{
 			"matches": ["*://plus.google.com/*"],
-			"css": ["plusTweaks.css"]
+			"css": ["plusTweaks.css"],
+			"js": ["plusTweaks.js"]
 		}
 	]
 }
