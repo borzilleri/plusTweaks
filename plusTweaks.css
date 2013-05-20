@@ -9,3 +9,11 @@
 .EyKftc {
 	max-width: 700px !important;
 }
+
+/**
+ * "You might like this" and "Trending" boxes
+ */
+.Om,
+.qcY0Mc {
+	display: none !important;
+}
