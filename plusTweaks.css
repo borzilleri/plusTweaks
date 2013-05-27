@@ -11,9 +11,16 @@
 }
 
 /**
- * "You might like this" and "Trending" boxes
+ * Hide "You might like this" and "Trending" boxes
  */
 .Om,
 .qcY0Mc {
 	display: none !important;
+}
+
+/**
+ * Allow post comments to expand fully. Fuck Scrollbars.
+ */
+.CLSMk {
+	max-height: 400px;
 }
