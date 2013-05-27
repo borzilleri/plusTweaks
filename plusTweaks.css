@@ -22,5 +22,5 @@
  * Allow post comments to expand fully. Fuck Scrollbars.
  */
 .CLSMk {
-	max-height: 400px;
+	max-height: none !important;
 }
